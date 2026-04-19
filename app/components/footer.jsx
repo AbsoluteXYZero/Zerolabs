@@ -12,17 +12,9 @@ function Footer() {
         </div>
         <div className="flex flex-col md:flex-row items-center justify-between">
           <p className="text-sm">
-            © Zerolabs Portfolio by AbsoluteXYZero
+            Zerolabs ©
           </p>
           <div className="flex items-center gap-5">
-            <Link
-              target="_blank"
-              href="https://gitlab.com/users/AbsoluteXYZero/projects"
-              className="flex items-center gap-2 uppercase hover:text-[#16f2b3]"
-            >
-              <IoStar />
-              <span>Star</span>
-            </Link>
           </div>
         </div>
       </div>
